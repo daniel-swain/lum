@@ -38,3 +38,12 @@ Embrace The Night
 
 Known Bugs:
 	-"Unknown String" is poping up. Need to finish putting in strings.
+
+Ver0.2b - May 27, 2014
+---------------------------------------
+Speech Update
+-Speech scripts added.
+-"Unknown String" bug fixed.
+
+Known Bugs:
+	-If a string isn't there for an item, he will stare at it blankly.

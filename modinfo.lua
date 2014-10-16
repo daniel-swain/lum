@@ -2,7 +2,7 @@
 name = "Lumizze"
 description = "This is Lumizze. He has one eye and he doesn't afraid of anything."
 author = "Wisard (Daniel Swain)"
-version = "0.2"
+version = "0.2b"
 
 forumthread = "/files/file/558-lumizze-the-rapscallion/"
 api_version = 5
